@@ -1,2 +1,108 @@
-# BdSQLite
-Aplicativo desenvolvido em Android Studio utilizando Kotlin e SQLite com o objetivo de realizar o cadastro e armazenamento local de usuários.
+# 💜 BdSQLite - Cadastro com SQLite
+
+Aplicativo Android desenvolvido em **Kotlin** no **Android Studio** com foco em cadastro e armazenamento local de dados utilizando **SQLite**.
+
+O projeto apresenta uma interface moderna em tema dark com detalhes em roxo neon, contendo telas de cadastro, confirmação de dados e visualização dos registros salvos no banco de dados.
+
+---
+
+## ✨ Demonstração da Interface
+
+<img width="474" height="916" alt="Tela Cadastro" src="LINK_DA_IMAGEM_AQUI" />
+
+<img width="474" height="916" alt="Tela Confirmação" src="LINK_DA_IMAGEM_AQUI" />
+
+<img width="474" height="916" alt="Tela Dados Salvos" src="LINK_DA_IMAGEM_AQUI" />
+
+---
+
+## 🚀 Funcionalidades
+
+O aplicativo foi desenvolvido para praticar conceitos fundamentais do desenvolvimento Android nativo:
+
+* 📋 Cadastro de usuários
+* 💾 Armazenamento local com SQLite
+* 🔄 Navegação entre telas utilizando Intent
+* 📂 Visualização de dados salvos
+* 🎨 Interface moderna em tema dark
+* 📱 Layout responsivo e organizado
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** [Kotlin](https://kotlinlang.org/)
+* **IDE:** [Android Studio](https://developer.android.com/studio)
+* **Banco de Dados:** SQLite
+* **Interface:** XML
+* **Arquitetura Android:** Activities + Intent
+
+---
+
+## 🎨 Design da Interface
+
+O projeto foi desenvolvido utilizando:
+*  Tema Dark Moderno
+*  Paleta Neon Roxa
+*  Cards organizados
+*  Interface inspirada em aplicativos modernos
+
+---
+
+## 📚 Objetivo do Projeto
+
+O principal objetivo deste projeto é praticar:
+* Manipulação de banco de dados local
+* Criação de interfaces gráficas
+* Navegação entre Activities
+* Organização de layouts XML
+* Armazenamento e leitura de dados no Android
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+BdSQLite
+ ┣ 📂 app
+ ┃ ┣ 📂 src
+ ┃ ┃ ┣ 📂 main
+ ┃ ┃ ┃ ┣ 📂 java/com/example/bdsqlite
+ ┃ ┃ ┃ ┃ ┣ 📄 MainActivity.kt
+ ┃ ┃ ┃ ┃ ┣ 📄 RespostaActivity.kt
+ ┃ ┃ ┃ ┃ ┣ 📄 ListaActivity.kt
+ ┃ ┃ ┃ ┃ ┗ 📄 BancoHelper.kt
+ ┃ ┃ ┃ ┗ 📂 res/layout
+ ┃ ┃ ┃   ┣ 📄 activity_main.xml
+ ┃ ┃ ┃   ┣ 📄 activity_resposta.xml
+ ┃ ┃ ┃   ┗ 📄 activity_lista.xml
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. **Clone este repositório:**
+
+```bash
+git clone https://github.com/sofismoura/BdSQLite.git
+```
+
+2. **Abra o projeto no Android Studio**
+
+3. **Execute em um emulador Android ou dispositivo físico**
+
+---
+
+## 💡 Aprendizados
+
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
+
+* SQLite Database
+* CRUD básico
+* Activities
+* Intent
+* View Components
+* Organização de layouts
+* Interface moderna Android
+
