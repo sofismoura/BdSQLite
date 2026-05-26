@@ -1,4 +1,4 @@
-# 💜 BdSQLite - Cadastro com SQLite
+# BdSQLite - Cadastro com SQLite
 
 Aplicativo Android desenvolvido em **Kotlin** no **Android Studio** com foco em cadastro e armazenamento local de dados utilizando **SQLite**.
 
