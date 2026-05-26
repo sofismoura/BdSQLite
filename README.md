@@ -8,11 +8,15 @@ O projeto apresenta uma interface moderna em tema dark com detalhes em roxo neon
 
 ## ✨ Demonstração da Interface
 
-<img width="474" height="916" alt="Tela Cadastro" src="LINK_DA_IMAGEM_AQUI" />
+<img width="474" height="916" alt="Tela Cadastro" src="https://github.com/sofismoura/BdSQLite/blob/main/BdSQLite/Captura%20de%20tela%202026-05-26%20005405.png" />
 
-<img width="474" height="916" alt="Tela Confirmação" src="LINK_DA_IMAGEM_AQUI" />
+<img width="474" height="916" alt="Tela Cadastro2" src="https://github.com/sofismoura/BdSQLite/blob/main/BdSQLite/Captura%20de%20tela%202026-05-26%20013707.png" />
 
-<img width="474" height="916" alt="Tela Dados Salvos" src="LINK_DA_IMAGEM_AQUI" />
+<img width="474" height="916" alt="Tela Confirmação" src="https://github.com/sofismoura/BdSQLite/blob/main/BdSQLite/Captura%20de%20tela%202026-05-26%20013721.png" />
+
+<img width="474" height="916" alt="Tela Dados Salvos" src="https://github.com/sofismoura/BdSQLite/blob/main/BdSQLite/Captura%20de%20tela%202026-05-26%20013742.png" />
+
+<img width="474" height="916" alt="Tela Dados Salvos2" src="https://github.com/sofismoura/BdSQLite/blob/main/BdSQLite/Captura%20de%20tela%202026-05-26%20013804.png" />
 
 ---
 
