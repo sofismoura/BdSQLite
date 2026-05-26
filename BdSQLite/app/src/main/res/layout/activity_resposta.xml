@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0F0F0F">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="28dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Confirmar Dados"
+            android:textColor="#BB86FC"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="35dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#1C1C1C"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nome"
+                android:textColor="#BB86FC"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/edtNomeResposta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#BB86FC"
+                android:padding="14dp"
+                android:layout_marginBottom="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Endereço"
+                android:textColor="#BB86FC"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/edtEnderecoResposta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#BB86FC"
+                android:padding="14dp"
+                android:layout_marginBottom="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bairro"
+                android:textColor="#BB86FC"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/edtBairroResposta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#BB86FC"
+                android:padding="14dp"
+                android:layout_marginBottom="20dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CEP"
+                android:textColor="#BB86FC"
+                android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/edtCepResposta"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#BB86FC"
+                android:padding="14dp"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnSalvar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salvar no Banco"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#7B1FA2"
+            android:padding="16dp"
+            android:layout_marginTop="30dp"/>
+
+        <Button
+            android:id="@+id/btnVerDados"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ver Dados Salvos"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#9C27B0"
+            android:padding="16dp"
+            android:layout_marginTop="14dp"/>
+
+    </LinearLayout>
+
+</ScrollView>
